@@ -1,0 +1,994 @@
+[
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=123408",
+        "year": "2017"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=102826",
+        "year": "2013"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=104596",
+        "year": "2014"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=108031",
+        "year": "2015"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=111174",
+        "year": "2016"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=85753",
+        "year": "2009"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=87433",
+        "year": "2010"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=88928",
+        "year": "2011"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=99000",
+        "year": "2012"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=58746",
+        "year": "2005"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=65090",
+        "year": "2006"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=24446",
+        "year": "2007"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=76301",
+        "year": "2008"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29643",
+        "year": "2001"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29644",
+        "year": "2002"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29645",
+        "year": "2003"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29646",
+        "year": "2004"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=53358",
+        "year": "1997"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=56280",
+        "year": "1998"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=58708",
+        "year": "2000"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=47232",
+        "year": "1993"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=50409",
+        "year": "1994"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=51634",
+        "year": "1995"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=53091",
+        "year": "1996"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16660",
+        "year": "1989"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=18095",
+        "year": "1990"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=19253",
+        "year": "1991"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=20544",
+        "year": "1992"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=38069",
+        "year": "1985"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=36646",
+        "year": "1986"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=34430",
+        "year": "1987"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=36035",
+        "year": "1988"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=43425",
+        "year": "1981"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=42687",
+        "year": "1982"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=41698",
+        "year": "1983"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=40205",
+        "year": "1984"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=30856",
+        "year": "1978"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=32657",
+        "year": "1979"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=33079",
+        "year": "1980"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=30867",
+        "year": "1978"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=32735",
+        "year": "1979"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=33062",
+        "year": "1980"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=44541",
+        "year": "1981"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4938",
+        "year": "1975"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=5677",
+        "year": "1976"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=5555",
+        "year": "1977"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4327",
+        "year": "1974"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4328",
+        "year": "1974"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=2921",
+        "year": "1970"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=3110",
+        "year": "1971"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=3396",
+        "year": "1972"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=3407",
+        "year": "1972"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=26907",
+        "year": "1965"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=28015",
+        "year": "1966"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=28338",
+        "year": "1967"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=28738",
+        "year": "1968"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29333",
+        "year": "1969"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=26787",
+        "year": "1964"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=8045",
+        "year": "1961"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=9082",
+        "year": "1962"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=9138",
+        "year": "1963"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=11029",
+        "year": "1957"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=11162",
+        "year": "1958"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=11685",
+        "year": "1959"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=12061",
+        "year": "1960"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=12074",
+        "year": "1961"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=9829",
+        "year": "1953"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10096",
+        "year": "1954"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10416",
+        "year": "1955"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10704",
+        "year": "1956‡"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10593",
+        "year": "1956"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10704",
+        "year": "‡"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=13293",
+        "year": "1949"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=13567",
+        "year": "1950"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=14017",
+        "year": "1951"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=14418",
+        "year": "1952"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=14379",
+        "year": "1953"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=12762",
+        "year": "1947"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=13005",
+        "year": "1948"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=12467",
+        "year": "1946"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16603",
+        "year": "1945"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10704",
+        "year": "‡"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16595",
+        "year": "1945"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10704",
+        "year": "‡"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16092",
+        "year": "1941"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16253",
+        "year": "1942"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16386",
+        "year": "1943"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=16518",
+        "year": "1944"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=15336",
+        "year": "1937"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=15517",
+        "year": "1938"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=15684",
+        "year": "1939"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=15856",
+        "year": "1940"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=14683",
+        "year": "1934"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=14890",
+        "year": "1935"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=15095",
+        "year": "1936"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=22021",
+        "year": "1929"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=22458",
+        "year": "1930"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=22933",
+        "year": "1931"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=23376",
+        "year": "1932"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29566",
+        "year": "1925"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29567",
+        "year": "1926"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29568",
+        "year": "1927"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29569",
+        "year": "1928"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29564",
+        "year": "1923"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29565",
+        "year": "1924"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29562",
+        "year": "1921"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29563",
+        "year": "1922"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29558",
+        "year": "1917"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29559",
+        "year": "1918"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29560",
+        "year": "1919"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29561",
+        "year": "1920"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29554",
+        "year": "1913"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29555",
+        "year": "1914"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29556",
+        "year": "1915"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29557",
+        "year": "1916"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29550",
+        "year": "1909"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29551",
+        "year": "1910"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29552",
+        "year": "1911"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29553",
+        "year": "1912"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29546",
+        "year": "1905"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29547",
+        "year": "1906"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29548",
+        "year": "1907"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29549",
+        "year": "1908"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29542",
+        "year": "1901"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29543",
+        "year": "1902"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29544",
+        "year": "1903"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29545",
+        "year": "1904"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29538",
+        "year": "1897"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29539",
+        "year": "1898"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29540",
+        "year": "1899"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29541",
+        "year": "1900"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29534",
+        "year": "1893"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29535",
+        "year": "1894"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29536",
+        "year": "1895"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29537",
+        "year": "1896"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29530",
+        "year": "1889"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29531",
+        "year": "1890"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29532",
+        "year": "1891"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29533",
+        "year": "1892"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29526",
+        "year": "1885"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29527",
+        "year": "1886"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29528",
+        "year": "1887"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29529",
+        "year": "1888"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29522",
+        "year": "1881"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29523",
+        "year": "1882"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29524",
+        "year": "1883"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29525",
+        "year": "1884"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29518",
+        "year": "1877"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29519",
+        "year": "1878"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29520",
+        "year": "1879"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29521",
+        "year": "1880"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29514",
+        "year": "1873"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29515",
+        "year": "1874"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29516",
+        "year": "1875"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29517",
+        "year": "1876"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29506",
+        "year": "1865"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29507",
+        "year": "1866"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29508",
+        "year": "1867"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29509",
+        "year": "1868"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29502",
+        "year": "1861"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29503",
+        "year": "1862"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29504",
+        "year": "1863"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29505",
+        "year": "1864"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29498",
+        "year": "1857"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29499",
+        "year": "1858"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29500",
+        "year": "1859"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29501",
+        "year": "1860"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29494",
+        "year": "1853"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29495",
+        "year": "1854"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29496",
+        "year": "1855"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29497",
+        "year": "1856"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29491",
+        "year": "1850"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29492",
+        "year": "1851"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29493",
+        "year": "1852"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29490",
+        "year": "1849"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29486",
+        "year": "1845"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29487",
+        "year": "1846"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29488",
+        "year": "1847"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29489",
+        "year": "1848"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29483",
+        "year": "1841"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29484",
+        "year": "1842"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29647",
+        "year": "1843"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29485",
+        "year": "1844"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29479",
+        "year": "1837"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29480",
+        "year": "1838"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29481",
+        "year": "1839"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29482",
+        "year": "1840"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29475",
+        "year": "1833"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29476",
+        "year": "1834"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29477",
+        "year": "1835"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29478",
+        "year": "1836"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29471",
+        "year": "1829"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29472",
+        "year": "1830"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29473",
+        "year": "1831"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29474",
+        "year": "1832"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29467",
+        "year": "1825"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29468",
+        "year": "1826"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29469",
+        "year": "1827"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29470",
+        "year": "1828"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29463",
+        "year": "1821"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29464",
+        "year": "1822"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29465",
+        "year": "1823"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29466",
+        "year": "1824"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29459",
+        "year": "1817"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29460",
+        "year": "1818"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29461",
+        "year": "1819"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29462",
+        "year": "1820"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29455",
+        "year": "1813"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29456",
+        "year": "1814"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29457",
+        "year": "1815"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29458",
+        "year": "1816"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29451",
+        "year": "1809"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29452",
+        "year": "1810"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29453",
+        "year": "1811"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29454",
+        "year": "1812"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29447",
+        "year": "1805"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29448",
+        "year": "1806"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29449",
+        "year": "1807"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29450",
+        "year": "1808"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29443",
+        "year": "1801"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29444",
+        "year": "1802"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29445",
+        "year": "1803"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29446",
+        "year": "1804"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29439",
+        "year": "1797"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29440",
+        "year": "1798"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29441",
+        "year": "1799"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29442",
+        "year": "1800"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29435",
+        "year": "1793"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29436",
+        "year": "1794"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29437",
+        "year": "1795"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29438",
+        "year": "1796"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29431",
+        "year": "1790"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29432",
+        "year": "1790"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29433",
+        "year": "1791"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=29434",
+        "year": "1792"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10704",
+        "year": "‡"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=10704",
+        "year": "‡"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=3996",
+        "year": "State of the Union Message to the Congress: Overview and Goals"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4102",
+        "year": "State of the Union Message to the Congress on Natural Resources and the Environment"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4112",
+        "year": "State of the Union Message to the Congress on the Economy"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4121",
+        "year": "State of the Union Message to the Congress on Human Resources"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4134",
+        "year": "State of the Union Message to the Congress on Community Development"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4140",
+        "year": "State of the Union Message to the Congress on Law Enforcement and Drug Abuse Prevention"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4101",
+        "year": "Radio Address About the State of the Union Message on Natural Resources and the Environment"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4111",
+        "year": "Radio Address About the State of the Union Message on the Economy"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4117",
+        "year": "Radio Address About the State of the Union Message on Human Resources"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4128",
+        "year": "Radio Address About the State of the Union Message on Community Development"
+    },
+    {
+        "link": "https://www.presidency.ucsb.edu/ws/index.php?pid=4135",
+        "year": "Radio Address About the State of the Union Message on Law Enforcement and Drug Abuse Prevention"
+    }
+]
