@@ -4,3 +4,4 @@ This project has two components:
 
 1. A NodeJS scraper for State of the Union (SOTU) Addresses uses Puppeteer, creates a JSON array of objects that have the SOTU and a bit more from [The American Presidency Project at UCSB](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/annual-messages-congress-the-state-the-union) (see [transcripts json](state_of_union_results.json))
 2. R script that determines the SOTU addresses that contained cities. 
+

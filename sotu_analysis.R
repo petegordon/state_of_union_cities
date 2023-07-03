@@ -1,19 +1,34 @@
 
 # load libraries
 
+
+check_and_install_package <- function(package){
+  if (!package %in% installed.packages()[, "Package"]) {
+    install.packages(package, repos = "http://cran.us.r-project.org")
+  }
+}
+
+check_and_install_package("dplyr")
+check_and_install_package("ggplot2")
+check_and_install_package("tidyr")
+
 library(dplyr)
 library(ggplot2)
+library(tidyr)
+
 
 # read sotu speech text files into a list of data frames
 
-setwd("~/Downloads/state_of_union")
-filelist = list.files(pattern = ".*.txt")
-datalist = lapply(filelist, function(x) read.delim(x, header=FALSE))
-datafr = do.call("rbind", datalist)
+directory <- normalizePath("./1980_to_2023")
+if (getwd() != directory) setwd(directory)
+filelist <- list.files(pattern = ".*.txt")
+datalist <- lapply(filelist, function(x) read.delim(x, header=FALSE))
+datafr <- do.call("rbind", datalist)
 
+setwd(normalizePath(".."))
 # read city names into a data frame
 
-cities <- read.csv("~/Downloads/sotu_top_1k_cities.csv")
+cities <- read.csv("./sotu_analysis_city_names.csv")
 v.cities <- cities$city[1:50]
 
 # fix city names
@@ -39,7 +54,7 @@ round(pop.covered / pop, 2)
 # find city names in sotu text
 # output city name and sotu speech year to txt file 
 
-sink("~/Desktop/mentions_out.csv")
+sink("output_mentions_out.csv")
 
 cat(paste0("City", ",", "Year"))
 cat("\n")
@@ -60,28 +75,34 @@ sink()
 
 # Determine which city names have been mentioned in consecutive years
 
-df <- read.csv("~/Desktop/mentions_out.csv")
+df <- read.csv("output_mentions_out.csv")
 
-# plot
+# Sort the dataframe by City and Year
+df <- df %>% arrange(City, Year)
 
-df %>%
-  mutate(counter = 1) %>%
-  group_by(Year, City) %>%
-  summarize(counter = sum(counter)) %>%
-  ungroup() %>%
-  mutate(counter = ifelse(counter >= 1, 1, 0)) %>%
-  ggplot() +
-    aes(
-      x = Year,
-      y = counter
-    ) +
-  geom_bar(stat = "identity") +
-  facet_wrap(City ~ .) +
-  theme_minimal() +
-  theme(
-    axis.text.x = element_text(angle = 90),
-    axis.text.y=element_blank(),
-    axis.ticks.y=element_blank(),
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank()
-  )
+# Ensure City to Year is unique
+unique_data <- unique(df)
+
+# Create a dataframe with added column "Consecutive"
+df <- unique_data %>%
+  group_by(City) %>%
+  mutate(
+    Consecutive = (lag(Year) + 1) %in% Year | (lead(Year) - 1) %in% Year
+  ) %>%
+  ungroup()
+
+dash_years <- unique(df$Year[df$Year %% 10 != 0])
+
+# Plot
+plot <- ggplot(data = df, aes(x = Year, y = City, color = Consecutive)) +
+    geom_point() +
+    geom_vline(xintercept = dash_years, linetype="dashed", color = "gray") +
+    scale_color_manual(values = c("FALSE" = "black", "TRUE" = "red")) +
+    labs(title = "City by Year",
+            x = "Year",
+            y = "City",
+            color = "Is Consecutive") +
+    scale_y_discrete(limits = rev(sort(unique(df$City))))
+
+# Save the plot to a file
+ggsave("output_my_plot_red.png", plot = plot)
