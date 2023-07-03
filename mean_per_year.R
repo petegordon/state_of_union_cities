@@ -1,4 +1,5 @@
 library(dplyr)
+library(ggplot2)
 
 # Create the data frame
 data <- read.csv('output_mentions_out.csv')
@@ -11,6 +12,19 @@ data_complete <- merge(all_years, data, all.x = TRUE)
 # Replace missing values with NA
 data_complete$City[is.na(data_complete$City)] <- "No City Mentioned"
 
+# Calculate the number of city mentions each year
+num_city_mentions <- data %>%
+  group_by(Year) %>%
+  summarise(num_mentions = n_distinct(City))
+
+# Plot the number of city mentions over the years as a line graph
+plot <- ggplot(num_city_mentions, aes(x = Year, y = num_mentions)) +
+  geom_line() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Year", y = "Number of City Mentions") +
+  ggtitle("Number of City Mentions Over the Years")
+plot(plot)
+
 # Calculate the average number of cities mentioned each year
 average_cities_mentioned <- data_complete %>%
   group_by(Year) %>%
@@ -21,3 +35,4 @@ average_cities_mentioned <- data_complete %>%
 print(average_cities_mentioned)
 
 #2.32 mentions per year.
+
