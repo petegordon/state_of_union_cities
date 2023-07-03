@@ -1,0 +1,1001 @@
+rank,city,state,population,percent
+1,New York,New York,8405837,4.80%
+2,Los Angeles,California,3884307,4.80%
+3,Chicago,Illinois,2718782,-6.10%
+4,Houston,Texas,2195914,11.00%
+5,Philadelphia,Pennsylvania,1553165,2.60%
+6,Phoenix,Arizona,1513367,14.00%
+7,San Antonio,Texas,1409019,21.00%
+8,San Diego,California,1355896,10.50%
+9,Dallas,Texas,1257676,5.60%
+10,San Jose,California,998537,10.50%
+11,Austin,Texas,885400,31.70%
+12,Indianapolis,Indiana,843393,7.80%
+13,Jacksonville,Florida,842583,14.30%
+14,San Francisco,California,837442,7.70%
+15,Columbus,Ohio,822553,14.80%
+16,Charlotte,North Carolina,792862,39.10%
+17,Fort Worth,Texas,792727,45.10%
+18,Detroit,Michigan,688701,-27.10%
+19,El Paso,Texas,674433,19.40%
+20,Memphis,Tennessee,653450,-5.30%
+21,Seattle,Washington,652405,15.60%
+22,Denver,Colorado,649495,16.70%
+23,Washington,District of Columbia,646449,13.00%
+24,Boston,Massachusetts,645966,9.40%
+25,Nashville-Davidson,Tennessee,634464,16.20%
+26,Baltimore,Maryland,622104,-4.00%
+27,Oklahoma City,Oklahoma,610613,20.20%
+28,Louisville/Jefferson County,Kentucky,609893,10.00%
+29,Portland,Oregon,609456,15.00%
+30,Las Vegas,Nevada,603488,24.50%
+31,Milwaukee,Wisconsin,599164,0.30%
+32,Albuquerque,New Mexico,556495,23.50%
+33,Tucson,Arizona,526116,7.50%
+34,Fresno,California,509924,18.30%
+35,Sacramento,California,479686,17.20%
+36,Long Beach,California,469428,1.50%
+37,Kansas City,Missouri,467007,5.50%
+38,Mesa,Arizona,457587,13.50%
+39,Virginia Beach,Virginia,448479,5.10%
+40,Atlanta,Georgia,447841,6.20%
+41,Colorado Springs,Colorado,439886,21.40%
+42,Omaha,Nebraska,434353,5.90%
+43,Raleigh,North Carolina,431746,48.70%
+44,Miami,Florida,417650,14.90%
+45,Oakland,California,406253,1.30%
+46,Minneapolis,Minnesota,400070,4.50%
+47,Tulsa,Oklahoma,398121,1.30%
+48,Cleveland,Ohio,390113,-18.10%
+49,Wichita,Kansas,386552,9.70%
+50,Arlington,Texas,379577,13.30%
+51,New Orleans,Louisiana,378715,-21.60%
+52,Bakersfield,California,363630,48.40%
+53,Tampa,Florida,352957,16.00%
+54,Honolulu,Hawaii,347884,-6.20%
+55,Aurora,Colorado,345803,24.40%
+56,Anaheim,California,345012,4.70%
+57,Santa Ana,California,334227,-1.20%
+58,St. Louis,Missouri,318416,-8.20%
+59,Riverside,California,316619,22.50%
+60,Corpus Christi,Texas,316381,14.10%
+61,Lexington-Fayette,Kentucky,308428,18.00%
+62,Pittsburgh,Pennsylvania,305841,-8.30%
+63,Anchorage,Alaska,300950,15.40%
+64,Stockton,California,298118,21.80%
+65,Cincinnati,Ohio,297517,-10.10%
+66,St. Paul,Minnesota,294873,2.80%
+67,Toledo,Ohio,282313,-10.00%
+68,Greensboro,North Carolina,279639,22.30%
+69,Newark,New Jersey,278427,2.10%
+70,Plano,Texas,274409,22.40%
+71,Henderson,Nevada,270811,51.00%
+72,Lincoln,Nebraska,268738,18.00%
+73,Buffalo,New York,258959,-11.30%
+74,Jersey City,New Jersey,257342,7.20%
+75,Chula Vista,California,256780,46.20%
+76,Fort Wayne,Indiana,256496,1.00%
+77,Orlando,Florida,255483,31.20%
+78,St. Petersburg,Florida,249688,0.30%
+79,Chandler,Arizona,249146,38.70%
+80,Laredo,Texas,248142,38.20%
+81,Norfolk,Virginia,246139,5.00%
+82,Durham,North Carolina,245475,29.90%
+83,Madison,Wisconsin,243344,15.80%
+84,Lubbock,Texas,239538,19.60%
+85,Irvine,California,236716,61.30%
+86,Winston-Salem,North Carolina,236441,16.90%
+87,Glendale,Arizona,234632,5.70%
+88,Garland,Texas,234566,8.50%
+89,Hialeah,Florida,233394,3.20%
+90,Reno,Nevada,233294,26.80%
+91,Chesapeake,Virginia,230571,15.10%
+92,Gilbert,Arizona,229972,96.00%
+93,Baton Rouge,Louisiana,229426,0.40%
+94,Irving,Texas,228653,19.10%
+95,Scottsdale,Arizona,226918,11.00%
+96,North Las Vegas,Nevada,226877,92.20%
+97,Fremont,California,224922,10.00%
+98,Boise City,Idaho,214237,9.50%
+99,Richmond,Virginia,214114,8.20%
+100,San Bernardino,California,213708,13.00%
+101,Birmingham,Alabama,212113,-12.30%
+102,Spokane,Washington,210721,7.00%
+103,Rochester,New York,210358,-4.10%
+104,Des Moines,Iowa,207510,3.90%
+105,Modesto,California,204933,7.70%
+106,Fayetteville,North Carolina,204408,2.40%
+107,Tacoma,Washington,203446,4.90%
+108,Oxnard,California,203007,18.20%
+109,Fontana,California,203003,38.30%
+110,Columbus,Georgia,202824,8.70%
+111,Montgomery,Alabama,201332,-0.10%
+112,Moreno Valley,California,201175,40.40%
+113,Shreveport,Louisiana,200327,-0.10%
+114,Aurora,Illinois,199963,38.40%
+115,Yonkers,New York,199766,1.80%
+116,Akron,Ohio,198100,-8.60%
+117,Huntington Beach,California,197575,3.90%
+118,Little Rock,Arkansas,197357,7.60%
+119,Augusta-Richmond County,Georgia,197350,1.10%
+120,Amarillo,Texas,196429,12.80%
+121,Glendale,California,196021,0.30%
+122,Mobile,Alabama,194899,-1.90%
+123,Grand Rapids,Michigan,192294,-2.80%
+124,Salt Lake City,Utah,191180,5.10%
+125,Tallahassee,Florida,186411,21.80%
+126,Huntsville,Alabama,186254,16.30%
+127,Grand Prairie,Texas,183372,43.10%
+128,Knoxville,Tennessee,183270,3.90%
+129,Worcester,Massachusetts,182544,5.80%
+130,Newport News,Virginia,182020,0.90%
+131,Brownsville,Texas,181860,26.80%
+132,Overland Park,Kansas,181260,19.40%
+133,Santa Clarita,California,179590,15.30%
+134,Providence,Rhode Island,177994,2.30%
+135,Garden Grove,California,175140,5.80%
+136,Chattanooga,Tennessee,173366,10.50%
+137,Oceanside,California,172794,6.60%
+138,Jackson,Mississippi,172638,-6.80%
+139,Fort Lauderdale,Florida,172389,0.70%
+140,Santa Rosa,California,171990,15.20%
+141,Rancho Cucamonga,California,171386,32.70%
+142,Port St. Lucie,Florida,171016,91.70%
+143,Tempe,Arizona,168228,5.80%
+144,Ontario,California,167500,5.50%
+145,Vancouver,Washington,167405,14.20%
+146,Cape Coral,Florida,165831,60.40%
+147,Sioux Falls,South Dakota,164676,31.10%
+148,Springfield,Missouri,164122,7.80%
+149,Peoria,Arizona,162592,46.50%
+150,Pembroke Pines,Florida,162329,17.40%
+151,Elk Grove,California,161007,97.10%
+152,Salem,Oregon,160614,16.40%
+153,Lancaster,California,159523,33.80%
+154,Corona,California,159503,23.60%
+155,Eugene,Oregon,159190,14.40%
+156,Palmdale,California,157161,33.70%
+157,Salinas,California,155662,8.40%
+158,Springfield,Massachusetts,153703,1.10%
+159,Pasadena,Texas,152735,7.50%
+160,Fort Collins,Colorado,152061,26.60%
+161,Hayward,California,151574,7.50%
+162,Pomona,California,151348,2.10%
+163,Cary,North Carolina,151088,55.10%
+164,Rockford,Illinois,150251,-1.00%
+165,Alexandria,Virginia,148892,15.00%
+166,Escondido,California,148738,10.70%
+167,McKinney,Texas,148559,165.30%
+168,Kansas City,Kansas,148483,1.10%
+169,Joliet,Illinois,147806,36.50%
+170,Sunnyvale,California,147559,11.90%
+171,Torrance,California,147478,6.60%
+172,Bridgeport,Connecticut,147216,5.40%
+173,Lakewood,Colorado,147214,1.90%
+174,Hollywood,Florida,146526,4.80%
+175,Paterson,New Jersey,145948,-2.20%
+176,Naperville,Illinois,144864,12.00%
+177,Syracuse,New York,144669,-0.90%
+178,Mesquite,Texas,143484,14.70%
+179,Dayton,Ohio,143355,-13.50%
+180,Savannah,Georgia,142772,7.50%
+181,Clarksville,Tennessee,142357,36.90%
+182,Orange,California,139969,7.70%
+183,Pasadena,California,139731,3.80%
+184,Fullerton,California,138981,9.80%
+185,Killeen,Texas,137147,52.10%
+186,Frisco,Texas,136791,287.70%
+187,Hampton,Virginia,136699,-6.60%
+188,McAllen,Texas,136639,27.60%
+189,Warren,Michigan,134873,-2.30%
+190,Bellevue,Washington,133992,19.10%
+191,West Valley City,Utah,133579,22.20%
+192,Columbia,South Carolina,133358,11.70%
+193,Olathe,Kansas,131885,40.40%
+194,Sterling Heights,Michigan,131224,5.20%
+195,New Haven,Connecticut,130660,5.50%
+196,Miramar,Florida,130288,74.70%
+197,Waco,Texas,129030,12.50%
+198,Thousand Oaks,California,128731,9.50%
+199,Cedar Rapids,Iowa,128429,5.40%
+200,Charleston,South Carolina,127999,29.20%
+201,Visalia,California,127763,33.60%
+202,Topeka,Kansas,127679,3.40%
+203,Elizabeth,New Jersey,127558,5.50%
+204,Gainesville,Florida,127488,12.80%
+205,Thornton,Colorado,127359,52.90%
+206,Roseville,California,127035,56.20%
+207,Carrollton,Texas,126700,14.90%
+208,Coral Springs,Florida,126604,5.70%
+209,Stamford,Connecticut,126456,7.60%
+210,Simi Valley,California,126181,12.60%
+211,Concord,California,125880,2.90%
+212,Hartford,Connecticut,125017,0.60%
+213,Kent,Washington,124435,54.30%
+214,Lafayette,Louisiana,124276,11.00%
+215,Midland,Texas,123933,30.40%
+216,Surprise,Arizona,123546,281.90%
+217,Denton,Texas,123099,47.10%
+218,Victorville,California,121096,87.60%
+219,Evansville,Indiana,120310,-0.80%
+220,Santa Clara,California,120245,17.40%
+221,Abilene,Texas,120099,3.60%
+222,Athens-Clarke County,Georgia,119980,19.00%
+223,Vallejo,California,118837,1.20%
+224,Allentown,Pennsylvania,118577,11.20%
+225,Norman,Oklahoma,118197,22.00%
+226,Beaumont,Texas,117796,3.70%
+227,Independence,Missouri,117240,3.20%
+228,Murfreesboro,Tennessee,117044,65.10%
+229,Ann Arbor,Michigan,117025,2.00%
+230,Springfield,Illinois,117006,4.20%
+231,Berkeley,California,116768,13.30%
+232,Peoria,Illinois,116513,3.00%
+233,Provo,Utah,116288,10.00%
+234,El Monte,California,115708,-0.40%
+235,Columbia,Missouri,115276,34.00%
+236,Lansing,Michigan,113972,-4.40%
+237,Fargo,North Dakota,113658,24.90%
+238,Downey,California,113242,5.30%
+239,Costa Mesa,California,112174,2.40%
+240,Wilmington,North Carolina,112067,24.80%
+241,Arvada,Colorado,111707,9.20%
+242,Inglewood,California,111542,-1.00%
+243,Miami Gardens,Florida,111378,10.50%
+244,Carlsbad,California,110972,39.70%
+245,Westminster,Colorado,110945,9.40%
+246,Rochester,Minnesota,110742,23.90%
+247,Odessa,Texas,110720,22.30%
+248,Manchester,New Hampshire,110378,2.90%
+249,Elgin,Illinois,110145,16.00%
+250,West Jordan,Utah,110077,38.40%
+251,Round Rock,Texas,109821,81.00%
+252,Clearwater,Florida,109703,0.10%
+253,Waterbury,Connecticut,109676,2.20%
+254,Gresham,Oregon,109397,20.70%
+255,Fairfield,California,109320,12.80%
+256,Billings,Montana,109059,18.60%
+257,Lowell,Massachusetts,108861,3.40%
+258,San Buenaventura (Ventura),California,108817,7.40%
+259,Pueblo,Colorado,108249,5.90%
+260,High Point,North Carolina,107741,24.30%
+261,West Covina,California,107740,2.30%
+262,Richmond,California,107571,7.90%
+263,Murrieta,California,107479,107.40%
+264,Cambridge,Massachusetts,107289,5.50%
+265,Antioch,California,107100,16.90%
+266,Temecula,California,106780,55.40%
+267,Norwalk,California,106589,1.90%
+268,Centennial,Colorado,106114,3.50%
+269,Everett,Washington,105370,9.40%
+270,Palm Bay,Florida,104898,31.70%
+271,Wichita Falls,Texas,104898,0.70%
+272,Green Bay,Wisconsin,104779,1.90%
+273,Daly City,California,104739,1.00%
+274,Burbank,California,104709,4.20%
+275,Richardson,Texas,104475,13.20%
+276,Pompano Beach,Florida,104410,4.00%
+277,North Charleston,South Carolina,104054,27.40%
+278,Broken Arrow,Oklahoma,103500,28.20%
+279,Boulder,Colorado,103166,9.00%
+280,West Palm Beach,Florida,102436,23.50%
+281,Santa Maria,California,102216,30.90%
+282,El Cajon,California,102211,7.40%
+283,Davenport,Iowa,102157,3.90%
+284,Rialto,California,101910,9.80%
+285,Las Cruces,New Mexico,101324,37.60%
+286,San Mateo,California,101128,9.00%
+287,Lewisville,Texas,101074,28.90%
+288,South Bend,Indiana,100886,-6.80%
+289,Lakeland,Florida,100710,18.30%
+290,Erie,Pennsylvania,100671,-2.80%
+291,Tyler,Texas,100223,18.60%
+292,Pearland,Texas,100065,117.20%
+293,College Station,Texas,100050,45.20%
+294,Kenosha,Wisconsin,99889,9.50%
+295,Sandy Springs,Georgia,99770,17.40%
+296,Clovis,California,99769,42.60%
+297,Flint,Michigan,99763,-20.00%
+298,Roanoke,Virginia,98465,3.80%
+299,Albany,New York,98424,4.10%
+300,Jurupa Valley,California,98030,
+301,Compton,California,97877,4.50%
+302,San Angelo,Texas,97492,10.20%
+303,Hillsboro,Oregon,97368,36.40%
+304,Lawton,Oklahoma,97151,4.90%
+305,Renton,Washington,97003,88.40%
+306,Vista,California,96929,7.70%
+307,Davie,Florida,96830,17.70%
+308,Greeley,Colorado,96539,23.10%
+309,Mission Viejo,California,96346,2.90%
+310,Portsmouth,Virginia,96205,-4.20%
+311,Dearborn,Michigan,95884,-2.00%
+312,South Gate,California,95677,-0.80%
+313,Tuscaloosa,Alabama,95334,21.10%
+314,Livonia,Michigan,95208,-5.40%
+315,New Bedford,Massachusetts,95078,1.20%
+316,Vacaville,California,94275,5.40%
+317,Brockton,Massachusetts,94089,-0.30%
+318,Roswell,Georgia,94034,15.20%
+319,Beaverton,Oregon,93542,17.00%
+320,Quincy,Massachusetts,93494,5.80%
+321,Sparks,Nevada,93282,39.40%
+322,Yakima,Washington,93257,11.70%
+323,Lee's Summit,Missouri,93184,31.20%
+324,Federal Way,Washington,92734,8.80%
+325,Carson,California,92599,2.90%
+326,Santa Monica,California,92472,9.60%
+327,Hesperia,California,92147,46.10%
+328,Allen,Texas,92020,104.00%
+329,Rio Rancho,New Mexico,91956,74.40%
+330,Yuma,Arizona,91923,16.20%
+331,Westminster,California,91739,3.90%
+332,Orem,Utah,91648,8.50%
+333,Lynn,Massachusetts,91589,2.60%
+334,Redding,California,91119,11.90%
+335,Spokane Valley,Washington,91113,12.60%
+336,Miami Beach,Florida,91026,3.30%
+337,League City,Texas,90983,98.30%
+338,Lawrence,Kansas,90811,12.70%
+339,Santa Barbara,California,90412,0.90%
+340,Plantation,Florida,90268,8.60%
+341,Sandy,Utah,90231,1.30%
+342,Sunrise,Florida,90116,4.60%
+343,Macon,Georgia,89981,-7.30%
+344,Longmont,Colorado,89919,24.40%
+345,Boca Raton,Florida,89407,7.50%
+346,San Marcos,California,89387,60.00%
+347,Greenville,North Carolina,89130,41.90%
+348,Waukegan,Illinois,88826,0.50%
+349,Fall River,Massachusetts,88697,-3.70%
+350,Chico,California,88077,14.20%
+351,Newton,Massachusetts,87971,4.90%
+352,San Leandro,California,87965,10.30%
+353,Reading,Pennsylvania,87893,8.00%
+354,Norwalk,Connecticut,87776,5.60%
+355,Fort Smith,Arkansas,87650,8.60%
+356,Newport Beach,California,87273,10.40%
+357,Asheville,North Carolina,87236,19.60%
+358,Nashua,New Hampshire,87137,0.40%
+359,Edmond,Oklahoma,87004,26.90%
+360,Whittier,California,86635,3.30%
+361,Nampa,Idaho,86518,57.90%
+362,Bloomington,Minnesota,86319,1.30%
+363,Deltona,Florida,86290,23.10%
+364,Hawthorne,California,86199,2.30%
+365,Duluth,Minnesota,86128,-0.10%
+366,Carmel,Indiana,85927,60.40%
+367,Suffolk,Virginia,85728,33.50%
+368,Clifton,New Jersey,85390,7.90%
+369,Citrus Heights,California,85285,-0.10%
+370,Livermore,California,85156,15.10%
+371,Tracy,California,84691,45.90%
+372,Alhambra,California,84577,-0.70%
+373,Kirkland,Washington,84430,87.50%
+374,Trenton,New Jersey,84349,-1.20%
+375,Ogden,Utah,84249,8.60%
+376,Hoover,Alabama,84126,32.70%
+377,Cicero,Illinois,84103,-1.60%
+378,Fishers,Indiana,83891,114.80%
+379,Sugar Land,Texas,83860,29.10%
+380,Danbury,Connecticut,83684,11.40%
+381,Meridian,Idaho,83596,127.60%
+382,Indio,California,83539,66.00%
+383,Concord,North Carolina,83506,47.40%
+384,Menifee,California,83447,95.00%
+385,Champaign,Illinois,83424,18.30%
+386,Buena Park,California,82882,6.10%
+387,Troy,Michigan,82821,2.20%
+388,O'Fallon,Missouri,82809,62.60%
+389,Johns Creek,Georgia,82788,36.50%
+390,Bellingham,Washington,82631,21.80%
+391,Westland,Michigan,82578,-4.70%
+392,Bloomington,Indiana,82575,16.10%
+393,Sioux City,Iowa,82459,-2.90%
+394,Warwick,Rhode Island,81971,-4.60%
+395,Hemet,California,81750,37.60%
+396,Longview,Texas,81443,11.60%
+397,Farmington Hills,Michigan,81295,-0.90%
+398,Bend,Oregon,81236,54.30%
+399,Lakewood,California,81121,2.10%
+400,Merced,California,81102,25.40%
+401,Mission,Texas,81050,74.50%
+402,Chino,California,80988,15.60%
+403,Redwood City,California,80872,7.10%
+404,Edinburg,Texas,80836,65.10%
+405,Cranston,Rhode Island,80566,1.40%
+406,Parma,Ohio,80429,-5.90%
+407,New Rochelle,New York,79446,9.90%
+408,Lake Forest,California,79312,4.20%
+409,Napa,California,79068,8.40%
+410,Hammond,Indiana,78967,-4.60%
+411,Fayetteville,Arkansas,78960,32.90%
+412,Bloomington,Illinois,78902,20.10%
+413,Avondale,Arizona,78822,111.50%
+414,Somerville,Massachusetts,78804,1.60%
+415,Palm Coast,Florida,78740,137.20%
+416,Bryan,Texas,78709,19.30%
+417,Gary,Indiana,78450,-23.40%
+418,Largo,Florida,78409,5.10%
+419,Brooklyn Park,Minnesota,78373,16.00%
+420,Tustin,California,78327,15.60%
+421,Racine,Wisconsin,78199,-4.40%
+422,Deerfield Beach,Florida,78041,4.80%
+423,Lynchburg,Virginia,78014,19.50%
+424,Mountain View,California,77846,10.10%
+425,Medford,Oregon,77677,17.10%
+426,Lawrence,Massachusetts,77657,7.50%
+427,Bellflower,California,77593,6.30%
+428,Melbourne,Florida,77508,5.90%
+429,St. Joseph,Missouri,77147,4.10%
+430,Camden,New Jersey,76903,-3.60%
+431,St. George,Utah,76817,53.10%
+432,Kennewick,Washington,76762,29.10%
+433,Baldwin Park,California,76635,0.80%
+434,Chino Hills,California,76572,13.60%
+435,Alameda,California,76419,5.40%
+436,Albany,Georgia,76185,-0.60%
+437,Arlington Heights,Illinois,75994,-0.60%
+438,Scranton,Pennsylvania,75806,0.00%
+439,Evanston,Illinois,75570,1.90%
+440,Kalamazoo,Michigan,75548,-1.90%
+441,Baytown,Texas,75418,13.10%
+442,Upland,California,75413,9.50%
+443,Springdale,Arkansas,75229,57.10%
+444,Bethlehem,Pennsylvania,75018,5.20%
+445,Schaumburg,Illinois,74907,-0.50%
+446,Mount Pleasant,South Carolina,74885,53.20%
+447,Auburn,Washington,74860,34.90%
+448,Decatur,Illinois,74710,-8.70%
+449,San Ramon,California,74513,65.80%
+450,Pleasanton,California,74110,15.20%
+451,Wyoming,Michigan,74100,6.50%
+452,Lake Charles,Louisiana,74024,3.00%
+453,Plymouth,Minnesota,73987,12.00%
+454,Bolingbrook,Illinois,73936,29.70%
+455,Pharr,Texas,73790,55.70%
+456,Appleton,Wisconsin,73596,4.50%
+457,Gastonia,North Carolina,73209,8.20%
+458,Folsom,California,73098,38.60%
+459,Southfield,Michigan,73006,-6.70%
+460,Rochester Hills,Michigan,72952,5.70%
+461,New Britain,Connecticut,72939,1.90%
+462,Goodyear,Arizona,72864,271.00%
+463,Canton,Ohio,72535,-10.30%
+464,Warner Robins,Georgia,72531,45.70%
+465,Union City,California,72528,7.40%
+466,Perris,California,72326,98.70%
+467,Manteca,California,71948,42.70%
+468,Iowa City,Iowa,71591,13.80%
+469,Jonesboro,Arkansas,71551,28.30%
+470,Wilmington,Delaware,71525,-1.60%
+471,Lynwood,California,71371,2.00%
+472,Loveland,Colorado,71334,37.40%
+473,Pawtucket,Rhode Island,71172,-2.50%
+474,Boynton Beach,Florida,71097,17.30%
+475,Waukesha,Wisconsin,71016,8.00%
+476,Gulfport,Mississippi,71012,-0.60%
+477,Apple Valley,California,70924,29.90%
+478,Passaic,New Jersey,70868,4.30%
+479,Rapid City,South Dakota,70812,17.90%
+480,Layton,Utah,70790,20.20%
+481,Lafayette,Indiana,70373,14.50%
+482,Turlock,California,70365,23.50%
+483,Muncie,Indiana,70316,-0.70%
+484,Temple,Texas,70190,27.10%
+485,Missouri City,Texas,70185,31.10%
+486,Redlands,California,69999,9.40%
+487,Santa Fe,New Mexico,69976,10.50%
+488,Lauderhill,Florida,69813,4.20%
+489,Milpitas,California,69783,11.00%
+490,Palatine,Illinois,69350,4.50%
+491,Missoula,Montana,69122,19.70%
+492,Rock Hill,South Carolina,69103,36.00%
+493,Jacksonville,North Carolina,69079,5.00%
+494,Franklin,Tennessee,68886,48.50%
+495,Flagstaff,Arizona,68667,29.30%
+496,Flower Mound,Texas,68609,32.50%
+497,Weston,Florida,68388,34.50%
+498,Waterloo,Iowa,68366,-0.50%
+499,Union City,New Jersey,68247,1.70%
+500,Mount Vernon,New York,68224,-0.20%
+501,Fort Myers,Florida,68190,31.20%
+502,Dothan,Alabama,68001,16.60%
+503,Rancho Cordova,California,67911,26.40%
+504,Redondo Beach,California,67815,6.70%
+505,Jackson,Tennessee,67685,12.90%
+506,Pasco,Washington,67599,98.50%
+507,St. Charles,Missouri,67569,11.30%
+508,Eau Claire,Wisconsin,67545,8.70%
+509,North Richland Hills,Texas,67317,20.20%
+510,Bismarck,North Dakota,67034,20.10%
+511,Yorba Linda,California,67032,13.40%
+512,Kenner,Louisiana,66975,-4.80%
+513,Walnut Creek,California,66900,3.50%
+514,Frederick,Maryland,66893,25.90%
+515,Oshkosh,Wisconsin,66778,5.30%
+516,Pittsburg,California,66695,16.60%
+517,Palo Alto,California,66642,13.70%
+518,Bossier City,Louisiana,66333,17.40%
+519,Portland,Maine,66318,3.20%
+520,St. Cloud,Minnesota,66297,10.90%
+521,Davis,California,66205,11.90%
+522,South San Francisco,California,66174,9.10%
+523,Camarillo,California,66086,14.90%
+524,North Little Rock,Arkansas,66075,9.00%
+525,Schenectady,New York,65902,6.70%
+526,Gaithersburg,Maryland,65690,24.20%
+527,Harlingen,Texas,65665,11.60%
+528,Woodbury,Minnesota,65656,39.80%
+529,Eagan,Minnesota,65453,2.60%
+530,Yuba City,California,65416,27.90%
+531,Maple Grove,Minnesota,65415,27.30%
+532,Youngstown,Ohio,65184,-20.20%
+533,Skokie,Illinois,65176,2.80%
+534,Kissimmee,Florida,65173,32.60%
+535,Johnson City,Tennessee,65123,16.20%
+536,Victoria,Texas,65098,7.50%
+537,San Clemente,California,65040,28.60%
+538,Bayonne,New Jersey,65028,5.10%
+539,Laguna Niguel,California,64652,2.80%
+540,East Orange,New Jersey,64544,-7.40%
+541,Shawnee,Kansas,64323,32.20%
+542,Homestead,Florida,64079,100.70%
+544,Rockville,Maryland,64072,34.00%
+543,Delray Beach,Florida,64072,6.10%
+545,Janesville,Wisconsin,63820,5.60%
+546,Conway,Arkansas,63816,46.10%
+547,Pico Rivera,California,63771,0.40%
+548,Lorain,Ohio,63710,-7.20%
+549,Montebello,California,63495,2.00%
+550,Lodi,California,63338,10.10%
+551,New Braunfels,Texas,63279,64.00%
+552,Marysville,Washington,63269,115.70%
+553,Tamarac,Florida,63155,12.90%
+554,Madera,California,63105,44.40%
+555,Conroe,Texas,63032,61.90%
+556,Santa Cruz,California,62864,12.50%
+557,Eden Prairie,Minnesota,62603,13.30%
+558,Cheyenne,Wyoming,62448,16.90%
+559,Daytona Beach,Florida,62316,-2.30%
+560,Alpharetta,Georgia,62298,33.60%
+561,Hamilton,Ohio,62258,2.70%
+562,Waltham,Massachusetts,62227,5.00%
+563,Coon Rapids,Minnesota,62103,0.60%
+564,Haverhill,Massachusetts,62088,5.00%
+565,Council Bluffs,Iowa,61969,6.20%
+566,Taylor,Michigan,61817,-6.30%
+567,Utica,New York,61808,2.20%
+568,Ames,Iowa,61792,21.30%
+569,La Habra,California,61653,3.60%
+570,Encinitas,California,61588,5.80%
+571,Bowling Green,Kentucky,61488,24.10%
+572,Burnsville,Minnesota,61434,1.90%
+573,Greenville,South Carolina,61397,8.20%
+574,West Des Moines,Iowa,61255,29.80%
+575,Cedar Park,Texas,61238,134.30%
+576,Tulare,California,61170,33.30%
+577,Monterey Park,California,61085,1.50%
+578,Vineland,New Jersey,61050,9.30%
+579,Terre Haute,Indiana,61025,2.50%
+580,North Miami,Florida,61007,2.00%
+581,Mansfield,Texas,60872,114.20%
+582,West Allis,Wisconsin,60697,-0.60%
+583,Bristol,Connecticut,60568,0.40%
+584,Taylorsville,Utah,60519,2.90%
+585,Malden,Massachusetts,60509,7.40%
+586,Meriden,Connecticut,60456,3.70%
+587,Blaine,Minnesota,60407,32.80%
+588,Wellington,Florida,60202,55.00%
+589,Cupertino,California,60189,14.30%
+590,Springfield,Oregon,60177,12.40%
+591,Rogers,Arkansas,60112,50.60%
+592,St. Clair Shores,Michigan,60070,-4.60%
+593,Gardena,California,59957,3.40%
+594,Pontiac,Michigan,59887,-11.40%
+595,National City,California,59834,10.10%
+596,Grand Junction,Colorado,59778,30.90%
+597,Rocklin,California,59738,60.30%
+598,Chapel Hill,North Carolina,59635,24.10%
+599,Casper,Wyoming,59628,19.90%
+600,Broomfield,Colorado,59471,50.30%
+601,Petaluma,California,59440,8.40%
+602,South Jordan,Utah,59366,100.10%
+603,Springfield,Ohio,59357,-9.80%
+604,Great Falls,Montana,59351,3.90%
+605,Lancaster,Pennsylvania,59325,4.50%
+606,North Port,Florida,59212,154.60%
+607,Lakewood,Washington,59097,1.10%
+608,Marietta,Georgia,59089,-3.80%
+609,San Rafael,California,58994,5.00%
+610,Royal Oak,Michigan,58946,-1.70%
+611,Des Plaines,Illinois,58918,3.20%
+612,Huntington Park,California,58879,-4.10%
+613,La Mesa,California,58642,6.90%
+614,Orland Park,Illinois,58590,13.90%
+615,Auburn,Alabama,58582,26.40%
+616,Lakeville,Minnesota,58562,34.30%
+617,Owensboro,Kentucky,58416,7.70%
+618,Moore,Oklahoma,58414,41.50%
+619,Jupiter,Florida,58298,46.20%
+620,Idaho Falls,Idaho,58292,14.00%
+621,Dubuque,Iowa,58253,0.90%
+622,Bartlett,Tennessee,58226,31.70%
+623,Rowlett,Texas,58043,28.60%
+624,Novi,Michigan,57960,22.00%
+625,White Plains,New York,57866,8.50%
+626,Arcadia,California,57639,8.30%
+627,Redmond,Washington,57530,26.00%
+628,Lake Elsinore,California,57525,96.50%
+629,Ocala,Florida,57468,20.80%
+630,Tinley Park,Illinois,57282,16.30%
+631,Port Orange,Florida,57203,22.80%
+632,Medford,Massachusetts,57170,2.70%
+633,Oak Lawn,Illinois,57073,3.30%
+634,Rocky Mount,North Carolina,56954,-3.10%
+635,Kokomo,Indiana,56895,21.30%
+636,Coconut Creek,Florida,56792,28.40%
+637,Bowie,Maryland,56759,8.60%
+638,Berwyn,Illinois,56758,5.10%
+639,Midwest City,Oklahoma,56756,4.50%
+640,Fountain Valley,California,56707,3.00%
+641,Buckeye,Arizona,56683,480.90%
+642,Dearborn Heights,Michigan,56620,-3.00%
+643,Woodland,California,56590,13.80%
+644,Noblesville,Indiana,56540,88.10%
+645,Valdosta,Georgia,56481,22.30%
+646,Diamond Bar,California,56449,0.10%
+647,Manhattan,Kansas,56143,22.80%
+648,Santee,California,56105,5.70%
+649,Taunton,Massachusetts,56069,0.00%
+650,Sanford,Florida,56002,42.80%
+651,Kettering,Ohio,55870,-3.10%
+652,New Brunswick,New Jersey,55831,15.50%
+653,Decatur,Alabama,55816,3.10%
+654,Chicopee,Massachusetts,55717,1.70%
+655,Anderson,Indiana,55670,-6.60%
+656,Margate,Florida,55456,2.70%
+657,Weymouth Town,Massachusetts,55419,
+658,Hempstead,New York,55361,4.00%
+659,Corvallis,Oregon,55298,11.80%
+660,Eastvale,California,55191,
+661,Porterville,California,55174,20.10%
+662,West Haven,Connecticut,55046,5.10%
+663,Brentwood,California,55000,122.30%
+664,Paramount,California,54980,-0.70%
+665,Grand Forks,North Dakota,54932,11.50%
+666,Georgetown,Texas,54898,91.90%
+667,St. Peters,Missouri,54842,6.50%
+668,Shoreline,Washington,54790,2.90%
+669,Mount Prospect,Illinois,54771,-2.50%
+670,Hanford,California,54686,30.30%
+671,Normal,Illinois,54664,19.70%
+672,Rosemead,California,54561,1.70%
+673,Lehi,Utah,54382,176.30%
+674,Pocatello,Idaho,54350,5.40%
+675,Highland,California,54291,21.00%
+676,Novato,California,54194,13.30%
+677,Port Arthur,Texas,54135,-6.00%
+678,Carson City,Nevada,54080,2.90%
+679,San Marcos,Texas,54076,48.50%
+680,Hendersonville,Tennessee,54068,31.70%
+681,Elyria,Ohio,53956,-3.70%
+682,Revere,Massachusetts,53756,13.40%
+683,Pflugerville,Texas,53752,123.40%
+684,Greenwood,Indiana,53665,46.00%
+685,Bellevue,Nebraska,53663,20.50%
+686,Wheaton,Illinois,53648,-3.40%
+687,Smyrna,Georgia,53438,20.00%
+688,Sarasota,Florida,53326,1.40%
+689,Blue Springs,Missouri,53294,9.90%
+690,Colton,California,53243,10.80%
+691,Euless,Texas,53224,15.10%
+692,Castle Rock,Colorado,53063,153.50%
+693,Cathedral City,California,52977,23.20%
+694,Kingsport,Tennessee,52962,16.70%
+695,Lake Havasu City,Arizona,52844,24.60%
+696,Pensacola,Florida,52703,-6.00%
+697,Hoboken,New Jersey,52575,35.80%
+698,Yucaipa,California,52536,26.80%
+699,Watsonville,California,52477,12.70%
+700,Richland,Washington,52413,34.60%
+701,Delano,California,52403,31.80%
+702,Hoffman Estates,Illinois,52398,5.40%
+703,Florissant,Missouri,52363,-2.80%
+704,Placentia,California,52206,11.80%
+705,West New York,New Jersey,52122,13.30%
+706,Dublin,California,52105,70.00%
+707,Oak Park,Illinois,52066,-0.80%
+708,Peabody,Massachusetts,52044,7.50%
+709,Perth Amboy,New Jersey,51982,9.70%
+710,Battle Creek,Michigan,51848,-2.80%
+711,Bradenton,Florida,51763,3.40%
+712,Gilroy,California,51701,23.90%
+713,Milford,Connecticut,51644,1.80%
+714,Albany,Oregon,51583,25.50%
+715,Ankeny,Iowa,51567,86.90%
+716,La Crosse,Wisconsin,51522,-0.80%
+717,Burlington,North Carolina,51510,12.10%
+718,DeSoto,Texas,51483,36.00%
+719,Harrisonburg,Virginia,51395,27.10%
+720,Minnetonka,Minnesota,51368,0.40%
+721,Elkhart,Indiana,51265,-2.50%
+722,Lakewood,Ohio,51143,-9.40%
+723,Glendora,California,51074,3.10%
+724,Southaven,Mississippi,50997,72.80%
+725,Charleston,West Virginia,50821,-4.70%
+726,Joplin,Missouri,50789,11.20%
+727,Enid,Oklahoma,50725,8.10%
+728,Palm Beach Gardens,Florida,50699,39.60%
+729,Brookhaven,Georgia,50603,
+730,Plainfield,New Jersey,50588,5.70%
+731,Grand Island,Nebraska,50550,16.00%
+732,Palm Desert,California,50508,13.20%
+733,Huntersville,North Carolina,50458,92.90%
+734,Tigard,Oregon,50444,17.80%
+735,Lenexa,Kansas,50344,24.60%
+736,Saginaw,Michigan,50303,-18.20%
+737,Kentwood,Michigan,50233,10.50%
+738,Doral,Florida,50213,137.60%
+739,Apple Valley,Minnesota,50201,9.20%
+740,Grapevine,Texas,50195,17.60%
+741,Aliso Viejo,California,50175,25.40%
+742,Sammamish,Washington,50169,44.10%
+743,Casa Grande,Arizona,50111,86.00%
+744,Pinellas Park,Florida,49998,5.90%
+745,Troy,New York,49974,1.50%
+746,West Sacramento,California,49891,55.60%
+747,Burien,Washington,49858,56.70%
+748,Commerce City,Colorado,49799,135.40%
+749,Monroe,Louisiana,49761,-6.10%
+750,Cerritos,California,49707,-3.60%
+751,Downers Grove,Illinois,49670,0.00%
+752,Coral Gables,Florida,49631,16.10%
+753,Wilson,North Carolina,49628,10.10%
+754,Niagara Falls,New York,49468,-10.80%
+755,Poway,California,49417,2.40%
+756,Edina,Minnesota,49376,4.10%
+757,Cuyahoga Falls,Ohio,49267,-0.20%
+758,Rancho Santa Margarita,California,49228,4.60%
+759,Harrisburg,Pennsylvania,49188,0.60%
+760,Huntington,West Virginia,49177,-5.00%
+761,La Mirada,California,49133,4.60%
+762,Cypress,California,49087,5.30%
+763,Caldwell,Idaho,48957,77.10%
+764,Logan,Utah,48913,14.50%
+765,Galveston,Texas,48733,-15.20%
+766,Sheboygan,Wisconsin,48725,-3.90%
+767,Middletown,Ohio,48630,-5.70%
+768,Murray,Utah,48612,6.60%
+769,Roswell,New Mexico,48611,7.50%
+770,Parker,Colorado,48608,96.40%
+771,Bedford,Texas,48592,2.90%
+772,East Lansing,Michigan,48554,4.20%
+773,Methuen,Massachusetts,48514,10.30%
+774,Covina,California,48508,3.30%
+775,Alexandria,Louisiana,48426,4.10%
+776,Olympia,Washington,48338,12.10%
+777,Euclid,Ohio,48139,-8.40%
+778,Mishawaka,Indiana,47989,2.00%
+779,Salina,Kansas,47846,4.50%
+780,Azusa,California,47842,6.70%
+781,Newark,Ohio,47777,3.10%
+782,Chesterfield,Missouri,47749,1.90%
+783,Leesburg,Virginia,47673,66.00%
+784,Dunwoody,Georgia,47591,
+785,Hattiesburg,Mississippi,47556,3.10%
+786,Roseville,Michigan,47555,-1.00%
+787,Bonita Springs,Florida,47547,43.80%
+788,Portage,Michigan,47523,5.70%
+789,St. Louis Park,Minnesota,47411,7.30%
+790,Collierville,Tennessee,47333,43.40%
+791,Middletown,Connecticut,47333,3.60%
+792,Stillwater,Oklahoma,47186,20.10%
+793,East Providence,Rhode Island,47149,-3.30%
+794,Lawrence,Indiana,47135,20.50%
+795,Wauwatosa,Wisconsin,47134,0.00%
+796,Mentor,Ohio,46979,-6.60%
+797,Ceres,California,46714,34.00%
+798,Cedar Hill,Texas,46663,42.40%
+799,Mansfield,Ohio,46454,-10.10%
+800,Binghamton,New York,46444,-1.70%
+801,Coeur d'Alene,Idaho,46402,32.80%
+802,San Luis Obispo,California,46377,4.40%
+803,Minot,North Dakota,46321,26.60%
+804,Palm Springs,California,46281,7.70%
+805,Pine Bluff,Arkansas,46094,-16.20%
+806,Texas City,Texas,46081,10.30%
+807,Summerville,South Carolina,46074,62.90%
+808,Twin Falls,Idaho,45981,31.50%
+809,Jeffersonville,Indiana,45929,53.30%
+810,San Jacinto,California,45851,91.80%
+811,Madison,Alabama,45799,53.70%
+812,Altoona,Pennsylvania,45796,-7.30%
+813,Columbus,Indiana,45775,16.40%
+814,Beavercreek,Ohio,45712,19.00%
+815,Apopka,Florida,45587,63.90%
+816,Elmhurst,Illinois,45556,5.70%
+817,Maricopa,Arizona,45508,2503.40%
+818,Farmington,New Mexico,45426,18.10%
+819,Glenview,Illinois,45417,5.20%
+820,Cleveland Heights,Ohio,45394,-10.30%
+821,Draper,Utah,45285,77.40%
+822,Lincoln,California,45237,285.20%
+823,Sierra Vista,Arizona,45129,19.30%
+824,Lacey,Washington,44919,41.70%
+825,Biloxi,Mississippi,44820,-11.50%
+826,Strongsville,Ohio,44730,1.90%
+827,Barnstable Town,Massachusetts,44641,-7.10%
+828,Wylie,Texas,44575,185.20%
+829,Sayreville,New Jersey,44412,9.60%
+830,Kannapolis,North Carolina,44359,18.60%
+831,Charlottesville,Virginia,44349,10.50%
+832,Littleton,Colorado,44275,9.40%
+833,Titusville,Florida,44206,7.80%
+834,Hackensack,New Jersey,44113,2.90%
+835,Newark,California,44096,3.30%
+836,Pittsfield,Massachusetts,44057,-3.60%
+837,York,Pennsylvania,43935,6.40%
+838,Lombard,Illinois,43907,2.90%
+839,Attleboro,Massachusetts,43886,4.60%
+840,DeKalb,Illinois,43849,11.80%
+841,Blacksburg,Virginia,43609,9.40%
+842,Dublin,Ohio,43607,37.60%
+843,Haltom City,Texas,43580,11.40%
+844,Lompoc,California,43509,5.50%
+845,El Centro,California,43363,13.70%
+846,Danville,California,43341,3.70%
+847,Jefferson City,Missouri,43330,6.70%
+848,Cutler Bay,Florida,43328,42.90%
+849,Oakland Park,Florida,43286,2.70%
+850,North Miami Beach,Florida,43250,3.60%
+851,Freeport,New York,43167,-1.40%
+852,Moline,Illinois,43116,-1.90%
+853,Coachella,California,43092,88.40%
+854,Fort Pierce,Florida,43074,6.90%
+855,Smyrna,Tennessee,43060,54.90%
+856,Bountiful,Utah,43023,3.90%
+857,Fond du Lac,Wisconsin,42970,1.70%
+858,Everett,Massachusetts,42935,12.10%
+859,Danville,Virginia,42907,-11.00%
+860,Keller,Texas,42907,53.30%
+861,Belleville,Illinois,42895,1.20%
+862,Bell Gardens,California,42889,-2.70%
+863,Cleveland,Tennessee,42774,14.10%
+864,North Lauderdale,Florida,42757,10.80%
+865,Fairfield,Ohio,42635,1.20%
+866,Salem,Massachusetts,42544,5.10%
+867,Rancho Palos Verdes,California,42448,2.90%
+868,San Bruno,California,42443,5.60%
+869,Concord,New Hampshire,42419,4.10%
+870,Burlington,Vermont,42284,6.10%
+871,Apex,North Carolina,42214,98.80%
+872,Midland,Michigan,42181,0.90%
+873,Altamonte Springs,Florida,42150,2.00%
+874,Hutchinson,Kansas,41889,0.10%
+875,Buffalo Grove,Illinois,41778,-3.40%
+876,Urbandale,Iowa,41776,41.50%
+877,State College,Pennsylvania,41757,8.70%
+878,Urbana,Illinois,41752,10.30%
+879,Plainfield,Illinois,41734,203.60%
+880,Manassas,Virginia,41705,19.50%
+881,Bartlett,Illinois,41679,13.10%
+882,Kearny,New Jersey,41664,2.80%
+883,Oro Valley,Arizona,41627,27.00%
+884,Findlay,Ohio,41512,5.80%
+885,Rohnert Park,California,41398,0.00%
+887,Westfield,Massachusetts,41301,3.00%
+886,Linden,New Jersey,41301,4.70%
+888,Sumter,South Carolina,41190,1.30%
+889,Wilkes-Barre,Pennsylvania,41108,-4.30%
+890,Woonsocket,Rhode Island,41026,-5.20%
+891,Leominster,Massachusetts,41002,-1.10%
+892,Shelton,Connecticut,40999,7.30%
+893,Brea,California,40963,15.20%
+894,Covington,Kentucky,40956,-4.70%
+895,Rockwall,Texas,40922,117.20%
+896,Meridian,Mississippi,40921,-0.90%
+897,Riverton,Utah,40921,61.60%
+898,St. Cloud,Florida,40918,86.20%
+899,Quincy,Illinois,40915,0.50%
+900,Morgan Hill,California,40836,19.50%
+901,Warren,Ohio,40768,-15.20%
+902,Edmonds,Washington,40727,2.90%
+903,Burleson,Texas,40714,85.30%
+904,Beverly,Massachusetts,40664,2.00%
+905,Mankato,Minnesota,40641,24.70%
+906,Hagerstown,Maryland,40612,10.40%
+907,Prescott,Arizona,40590,18.10%
+908,Campbell,California,40584,4.20%
+909,Cedar Falls,Iowa,40566,12.00%
+910,Beaumont,California,40481,254.50%
+911,La Puente,California,40435,-1.60%
+912,Crystal Lake,Illinois,40388,5.30%
+913,Fitchburg,Massachusetts,40383,3.50%
+914,Carol Stream,Illinois,40379,-0.20%
+915,Hickory,North Carolina,40361,7.00%
+916,Streamwood,Illinois,40351,10.10%
+917,Norwich,Connecticut,40347,11.60%
+918,Coppell,Texas,40342,10.30%
+919,San Gabriel,California,40275,0.90%
+920,Holyoke,Massachusetts,40249,0.90%
+921,Bentonville,Arkansas,40167,97.70%
+922,Florence,Alabama,40059,10.20%
+923,Peachtree Corners,Georgia,40059,
+924,Brentwood,Tennessee,40021,51.90%
+925,Bozeman,Montana,39860,41.90%
+926,New Berlin,Wisconsin,39834,3.60%
+927,Goose Creek,South Carolina,39823,26.10%
+928,Huntsville,Texas,39795,13.20%
+929,Prescott Valley,Arizona,39791,62.90%
+930,Maplewood,Minnesota,39765,12.30%
+931,Romeoville,Illinois,39650,79.50%
+932,Duncanville,Texas,39605,9.70%
+933,Atlantic City,New Jersey,39551,-2.20%
+934,Clovis,New Mexico,39508,21.30%
+935,The Colony,Texas,39458,45.70%
+936,Culver City,California,39428,1.30%
+937,Marlborough,Massachusetts,39414,7.60%
+938,Hilton Head Island,South Carolina,39412,16.00%
+939,Moorhead,Minnesota,39398,21.30%
+940,Calexico,California,39389,44.00%
+941,Bullhead City,Arizona,39383,15.90%
+942,Germantown,Tennessee,39375,4.10%
+943,La Quinta,California,39331,59.90%
+944,Lancaster,Ohio,39325,10.70%
+945,Wausau,Wisconsin,39309,1.70%
+946,Sherman,Texas,39296,11.60%
+947,Ocoee,Florida,39172,57.90%
+948,Shakopee,Minnesota,39167,85.70%
+949,Woburn,Massachusetts,39083,4.40%
+950,Bremerton,Washington,39056,4.90%
+951,Rock Island,Illinois,38877,-1.90%
+952,Muskogee,Oklahoma,38863,-0.70%
+953,Cape Girardeau,Missouri,38816,9.40%
+954,Annapolis,Maryland,38722,7.60%
+955,Greenacres,Florida,38696,35.50%
+956,Ormond Beach,Florida,38661,5.80%
+957,Hallandale Beach,Florida,38632,12.40%
+958,Stanton,California,38623,2.80%
+959,Puyallup,Washington,38609,11.80%
+960,Pacifica,California,38606,0.50%
+961,Hanover Park,Illinois,38510,0.60%
+962,Hurst,Texas,38448,5.80%
+963,Lima,Ohio,38355,-8.10%
+964,Marana,Arizona,38290,166.20%
+965,Carpentersville,Illinois,38241,22.80%
+966,Oakley,California,38194,47.70%
+967,Huber Heights,Ohio,38142,-0.20%
+968,Lancaster,Texas,38071,46.40%
+969,Montclair,California,38027,12.10%
+970,Wheeling,Illinois,38015,4.80%
+971,Brookfield,Wisconsin,37999,-1.90%
+972,Park Ridge,Illinois,37839,0.10%
+973,Florence,South Carolina,37792,19.80%
+974,Roy,Utah,37733,13.30%
+975,Winter Garden,Florida,37711,142.50%
+976,Chelsea,Massachusetts,37670,7.30%
+977,Valley Stream,New York,37659,3.60%
+978,Spartanburg,South Carolina,37647,-6.20%
+979,Lake Oswego,Oregon,37610,5.30%
+980,Friendswood,Texas,37587,28.60%
+981,Westerville,Ohio,37530,5.70%
+982,Northglenn,Colorado,37499,15.50%
+983,Phenix City,Alabama,37498,31.90%
+984,Grove City,Ohio,37490,35.60%
+985,Texarkana,Texas,37442,7.40%
+986,Addison,Illinois,37385,2.60%
+987,Dover,Delaware,37366,16.00%
+988,Lincoln Park,Michigan,37313,-6.70%
+989,Calumet City,Illinois,37240,-4.50%
+990,Muskegon,Michigan,37213,-7.10%
+991,Aventura,Florida,37199,47.20%
+992,Martinez,California,37165,3.40%
+993,Greenfield,Wisconsin,37159,4.80%
+994,Apache Junction,Arizona,37130,15.70%
+995,Monrovia,California,37101,0.20%
+996,Weslaco,Texas,37093,28.80%
+997,Keizer,Oregon,37064,14.40%
+998,Spanish Fork,Utah,36956,78.10%
+999,Beloit,Wisconsin,36888,2.90%
+1000,Panama City,Florida,36877,0.10%
